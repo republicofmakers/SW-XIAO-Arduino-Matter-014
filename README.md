@@ -16,17 +16,17 @@ You will need a bridge for openthread. I used skyconnect.
 
 ## 2. Setup
 
-<img width="992" alt="1" src="https://github.com/user-attachments/assets/f26a764c-e95b-4edd-a511-f1a43731447d" />
-
 Connect your device(Get QR Code)
 
-<img width="690" alt="3" src="https://github.com/user-attachments/assets/04fe181c-f7bf-4b2e-9c78-dafdc5da2d55" />
+<img width="992" alt="1" src="https://github.com/user-attachments/assets/f26a764c-e95b-4edd-a511-f1a43731447d" />
 
 Connect your device(Scan QR Code)
 
-<img width="349" alt="2" src="https://github.com/user-attachments/assets/39864fbd-2ff8-4f30-a564-0184524bb4b3" />
+<img width="690" alt="3" src="https://github.com/user-attachments/assets/04fe181c-f7bf-4b2e-9c78-dafdc5da2d55" />
 
-Connect your device(Check if it is succesfull)
+Connect your device(Check if it is succesfully connected)
+
+<img width="349" alt="2" src="https://github.com/user-attachments/assets/39864fbd-2ff8-4f30-a564-0184524bb4b3" />
 
 (NOTE: If you fail , upload matter_decommission, reset device while holding button for 10 seconds.)
 
