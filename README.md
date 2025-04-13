@@ -34,11 +34,11 @@ Connect your device(Check if it is succesfully connected)
 
 <img width="493" alt="led on" src="https://github.com/user-attachments/assets/fee1c060-68ba-4291-bafd-0268f71425c0" />
 
-Demonstration (LED ON)
+(LED ON)
 
 <img width="506" alt="led off" src="https://github.com/user-attachments/assets/98040048-122b-46d0-9e4c-3d8554aaa886" />
 
-Demonstration (LED OFF)
+(LED OFF)
 
 Hope this helps you.
 
