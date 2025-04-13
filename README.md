@@ -20,11 +20,11 @@ You will need a bridge for openthread. I used skyconnect.
 
 Connect your device(Get QR Code)
 
-<img width="349" alt="2" src="https://github.com/user-attachments/assets/39864fbd-2ff8-4f30-a564-0184524bb4b3" />
+<img width="690" alt="3" src="https://github.com/user-attachments/assets/04fe181c-f7bf-4b2e-9c78-dafdc5da2d55" />
 
 Connect your device(Scan QR Code)
 
-<img width="690" alt="3" src="https://github.com/user-attachments/assets/04fe181c-f7bf-4b2e-9c78-dafdc5da2d55" />
+<img width="349" alt="2" src="https://github.com/user-attachments/assets/39864fbd-2ff8-4f30-a564-0184524bb4b3" />
 
 Connect your device(Check if it is succesfull)
 
